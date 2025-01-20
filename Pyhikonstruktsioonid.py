@@ -40,4 +40,6 @@ arv1=int(input("Esimene korrutaja: "))
 arv2=int(input("jagaja: "))
 tulemus=arv1//arv2
 print(arv1, "//",arv2,"=",tulemus)
+#bbc
+
 
