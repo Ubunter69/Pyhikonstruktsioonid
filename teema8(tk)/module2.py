@@ -151,4 +151,5 @@ btn_teema.place(x=370, y=10)
 btn_scream.place(x=370, y=50)
 laadimine.place(x=250, y=370)
 
+ffffffff
 aken.mainloop()
